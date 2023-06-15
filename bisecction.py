@@ -1,12 +1,6 @@
 import math
-print("BISECTION")
+from variables import *
 
-# as raízes já devem ter sido encontradas
-a = 0.78
-b = 0.80
-x = 0.0
-# precisão solicitada
-p = 0.001
 
 
 def iteracoes(a, b, p):
